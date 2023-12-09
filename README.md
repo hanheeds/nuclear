@@ -5,7 +5,7 @@ By Hanhee Yang
 ### Course
 - CS 333, Professor Hullman, 12/5/2023
 
-![Alt text]([google.com](https://github.com/hanheeds/nuclear/blob/main/cs333_a3.png))
+![Alt text](https://github.com/hanheeds/nuclear/blob/main/cs333_a3.png)
 
 ### Background
 This project focuses on an interactive visualization of nuclear explosion data throughout the history of nuclear weapons. The dataset includes tests and combat uses by the U.S., USSR (Russia), China, France, India, the U.K., and Pakistan. The project is timely due to recent global concerns around nuclear warfare and increased public interest in the history of nuclear weapons.
