@@ -2,9 +2,6 @@
 
 By Hanhee Yang
 
-### Course
-- CS 333, Professor Hullman, 12/5/2023
-
 ![Alt text](https://github.com/hanheeds/nuclear/blob/main/cs333_a3.png)
 
 ### Background
